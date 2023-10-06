@@ -30,12 +30,12 @@ The Store Data Analysis project involved the analysis of sales data from an onli
 
 - Women are more likely to make purchases compared to men (approximately 65%).
 - The top three states contributing to sales are Maharashtra, Karnataka, and Uttar Pradesh.
-- The adult age group (30-49 years) is the largest contributor (approximately 50%).
+- The adult age group is the largest contributor (approximately 50%).
 - The major contributors among e-commerce channels are Amazon, Flipkart, and Myntra.
 
 **Final Conclusions to Improve Store Sales:**
 
-- Target women customers in the age group of 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh by showcasing ads, offers, and coupons available on Amazon, Flipkart, and Myntra.
+- Target:  adult women customers residing in Maharashtra, Karnataka, and Uttar Pradesh – by presenting them with tailored advertisements, exclusive offers, and discount coupons through prominent e-commerce platforms, including Amazon, 	   Flipkart, and Myntra.
 - Give special attention to sales strategies in the month of March, as it exhibits the highest sales performance.
 
 		  
